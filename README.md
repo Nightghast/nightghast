@@ -1,7 +1,10 @@
-<h1 align="center">Hi 👋, I'm Alex</h1>
-<h3 align="center">A highly enthusiastic and positive individual with extensive experience as a food crew member, now proudly holds a Bachelor of Science in Computer Science. With years of accumulated experience, demonstrates excellence in providing exceptional customer service, adept at upselling, and proficient in building strong rapport. Currently seeking a career transition to pursue my aspirations in IT and use the knowledge gained during university studies. Available for an immediate start.</h3>
+<h1 align="center">Salut 👋, je m'appelle Alex</h1>
 
-  ![@Nightghast #30NitesOfCode](https://www.codedex.io/api/petStatus?user=Nightghast)
+<h3 align="center">BSc Computer Science</h3>
+
+<p>A highly enthusiastic and positive individual with extensive experience as a food crew member, now proudly holds a Bachelor of Science in Computer Science. With years of accumulated experience, demonstrates excellence in providing exceptional customer service, adept at upselling, and proficient in building strong rapport. Currently seeking a career transition to pursue my aspirations in IT and use the knowledge gained during university studies. Available for an immediate start.</p>
+
+<h3 align="left">About me:</h3><img src="https://www.codedex.io/api/petStatus?user=Nightghast" alt="@Nightghast #30NitesOfCode" mian-width="300px" max-width="300px" width="250px" align="right">
 
 - 🔭 I’m currently working on **My Portfolio**
 
